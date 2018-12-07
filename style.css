@@ -1,0 +1,31 @@
+# freelencersaiful.com
+*{margin:0;padding:0;}
+img{max-width:100%}
+body{font-size:15px;line-height:25px;}
+.meinNav{width:100%;
+      overflow:hidden;
+      background:white;
+      border-bottom:2px solid orange;
+
+}
+#conteiner{width:90%;
+      margin:auto;
+      background:#f1f1f1;
+}
+.leftContent{display:table;width:20%;background:red}
+.logo{width:200px;float:left;background:#f1f1f1;margin-top:}
+.menuConteiner{display:block;
+      width:70%;
+      background:#99936
+      
+}
+.primaryMenu{list-style:none;float:right}
+.primaryMenu li{float:left;}
+.primaryMenu li a{font-weight:bold;
+      text-decoration:none;
+      background:#f1f1f1;
+      color:#222;
+      padding:20px 25px;
+      display:block;
+}
+.primary,Menu li a:hover{background:#003162;color:white;}
